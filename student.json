@@ -1,0 +1,86 @@
+[
+    {
+      "Name": "Mia Thompson",
+      "Field_of_study": "Computer Science",
+      "Year_of_study": 2,
+      "List_of_subjects": [
+        "Programming Fundamentals",
+        "Data Structures",
+        "Computer Networks",
+        "Discrete Mathematics"
+      ],
+      "Preferred_Learning_Styles": ["Visual", "Hands-on"],
+      "Personal_Objectives_Challenges": "Improve programming skills, master data structures and algorithms",
+      "Extracurricular_activities": ["Coding Club", "Basketball Team"]
+    },
+    {
+      "Name": "Alex Johnson",
+      "Field_of_study": "Mechanical Engineering",
+      "Year_of_study": 3,
+      "List_of_subjects": [
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Machine Design",
+        "Dynamics"
+      ],
+      "Preferred_Learning_Styles": ["Kinesthetic", "Auditory"],
+      "Personal_Objectives_Challenges": "Design a functional prototype for a sustainable energy solution, maintain a 3.5 GPA",
+      "Extracurricular_activities": ["Robotics Team", "Volunteer at Engineering Workshops"]
+    },
+    {
+      "Name": "Sara Kim",
+      "Field_of_study": "Psychology",
+      "Year_of_study": 4,
+      "List_of_subjects": [
+        "Cognitive Psychology",
+        "Social Psychology",
+        "Statistics",
+        "Research Methods"
+      ],
+      "Preferred_Learning_Styles": ["Auditory", "Reading/Writing"],
+      "Personal_Objectives_Challenges": "Complete thesis on cognitive biases, secure internship in clinical setting",
+      "Extracurricular_activities": ["Psychology Student Association", "Yoga Club"]
+    },
+    {
+      "Name": "David Martinez",
+      "Field_of_study": "Business Administration",
+      "Year_of_study": 1,
+      "List_of_subjects": [
+        "Principles of Management",
+        "Accounting",
+        "Economics",
+        "Marketing"
+      ],
+      "Preferred_Learning_Styles": ["Reading/Writing", "Visual"],
+      "Personal_Objectives_Challenges": "Develop a business plan for a startup, understand stock market basics",
+      "Extracurricular_activities": ["Business Insights Seminar", "Basketball Team"]
+    },
+    {
+      "Name": "Lily Anderson",
+      "Field_of_study": "Environmental Science",
+      "Year_of_study": 2,
+      "List_of_subjects": [
+        "Ecology",
+        "Environmental Policy",
+        "Geographic Information Systems (GIS)",
+        "Organic Chemistry"
+      ],
+      "Preferred_Learning_Styles": ["Visual", "Hands-on"],
+      "Personal_Objectives_Challenges": "Participate in a major environmental restoration project, achieve proficiency in GIS",
+      "Extracurricular_activities": ["Environmental Club", "Photography Club"]
+    },
+    {
+      "Name": "Omar Hassan",
+      "Field_of_study": "Biochemistry",
+      "Year_of_study": 3,
+      "List_of_subjects": [
+        "Organic Chemistry",
+        "Molecular Biology",
+        "Biochemical Techniques",
+        "Genetics"
+      ],
+      "Preferred_Learning_Styles": ["Hands-on", "Kinesthetic"],
+      "Personal_Objectives_Challenges": "Publish research in an undergraduate science journal, secure a research position",
+      "Extracurricular_activities": ["Science Club", "Student Tutor"]
+    }
+  ]
